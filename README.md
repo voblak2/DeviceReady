@@ -1,0 +1,2 @@
+# DeviceReady
+Android Device Ready
